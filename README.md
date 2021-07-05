@@ -19,7 +19,7 @@ The purpose here is to scrape full-resolution Nars Hemisphere images and titles,
 
 [scraping.py](https://github.com/shayanafzal/Mission-to-Mars/blob/389c462ff13358e6f54c7f31d04b98cb8074377d/scraping.py)
 
-### Delieverable 3
+### Delieverable 3: Add Bootstrap 3 Components
 
 [Desktop View](https://github.com/shayanafzal/Mission-to-Mars/blob/389c462ff13358e6f54c7f31d04b98cb8074377d/Pictures/Desktop%20View.png)
 
